@@ -1,4 +1,4 @@
-# Calculator Server and Interactive Clients
+# Calculator NATS Server and Interactive Clients
 
 Welcome to the Calculator Server and Interactive Clients project! This repository contains a simple calculator server along with two interactive client scripts that interact with the server. Additionally, the project includes a folder with test cases for the calculator server.
 
