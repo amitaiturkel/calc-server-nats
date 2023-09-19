@@ -111,7 +111,6 @@ if __name__ == "__main__":
         pass
     finally:
         loop.close()
-    #### running the REST server: uvicorn.run(app, host="127.0.0.1", port=8000)
     
 
 
