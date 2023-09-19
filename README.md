@@ -33,7 +33,9 @@ Use `poetry` to install the project's dependencies:
 This will ensure that all required packages are installed.
 
 ## Running the nats server
-first use this tutorial to run the nats server :
+First use this tutorial to download the nats server :
+'https://docs.nats.io/running-a-nats-service/introduction/installation'
+then use this tutorial to run the nats server :
 'https://devpress.csdn.net/linux/62e795eda254c06d462e2b51.html'
 
 ### Running the Calculator Server
